@@ -16,15 +16,18 @@
 h1{
   color: aliceblue;
   text-shadow: -1px -1px 0px black;
+  margin-left: 70px;
      
 }
 h2{
   color: azure;
   text-shadow: -1px -1px 0px black;
+  margin-left: 50px;
 }
 h3{
   color: white;
   text-shadow: -1px -1px 0px black;
+  margin-left: 40px;
      
 }
     .innerholder {
